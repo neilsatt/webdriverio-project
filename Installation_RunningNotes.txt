@@ -1,0 +1,13 @@
+To start the app/site
+
+- npm start
+
+
+To run shop-button.js
+- npm start
+- start selenium standalone server
+- ./node_modules/.bin/selenium-standalone start
+
+
+In another terminal:
+	node shop-button.js
